@@ -1,8 +1,5 @@
 # Flatpak Remix Website
 Website files for flatpakremix.org
 
-## Version History
-Version 0.0 (current version): Placeholder site created in Canva as a proof-of-concept.
-
-## To-Do
-Re-develop site using a static site generator, such as Hugo/etc
+## No longer supported
+This distribution is no longer supported (see announcement) and this repository is available temporarily for archival purposes.
